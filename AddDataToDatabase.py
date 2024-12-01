@@ -14,7 +14,7 @@ data = {
    "231213":
         {
             "name":"Muhammad Mursaleen",
-            "major":"Artificial Intelligence",
+            "major":"BSAI",
             "starting_year":2023,
             "total_attendance":6,
             "standing":"G",
